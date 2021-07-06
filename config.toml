@@ -1,0 +1,6 @@
+baseURL = "https://gomelina.me"
+languageCode = "en-gb"
+title = "Melina's Spanish Studio"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+enableRobotsTXT = true
+pygmentsUseClasses = true
