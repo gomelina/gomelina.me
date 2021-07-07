@@ -24,6 +24,9 @@ module.exports = {
       fontFamily: {
         'display': ['Inter']
       },
+	  fontSize:  {
+	    '10xl': '12rem'
+	  },
       colors: {
         'th-primary': withOpacity("--primary"),
         'th-secondary': withOpacity("--secondary"),
