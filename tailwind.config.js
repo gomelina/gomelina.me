@@ -32,6 +32,10 @@ module.exports = {
         'th-highlight': withOpacity("--highlight"),
         'th-background': withOpacity("--background")
       },
+	  scale: {
+		'101': '1.01',
+		'102': '1.02'
+	  }
     },
   },
   variants: {
